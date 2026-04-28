@@ -58,6 +58,5 @@ gcc -Wall -Wextra -Werror -pedantic main.c 0-binary_tree_node.c ... -o binary_tr
 - `0-binary_tree_node.c` to `18-binary_tree_uncle.c` — Implementation files
 
 ## Authors 
+- Osama Alhamdan
 - Noura Alosaimi
-- Alhamdan Osama
-
